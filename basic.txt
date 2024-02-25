@@ -1,0 +1,8 @@
+to add an existing folder to git/github
+
+git init
+git remote add origin <link>
+git remote -v  (to know where push pull operatoion are done)
+git branch
+git branch -M main
+git push origin main
