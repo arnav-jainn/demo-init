@@ -6,3 +6,5 @@ git remote -v  (to know where push pull operatoion are done)
 git branch
 git branch -M main
 git push origin main
+
+git push -u origin main( once do this next tym to push we dont need to write the whole thing again and again works with only git push)
